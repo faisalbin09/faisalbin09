@@ -17,10 +17,10 @@
 <p align="left">
   <a href="https://twitter.com/faisalbin09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/faisalbin09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/faisalbin09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
