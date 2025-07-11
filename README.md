@@ -67,9 +67,3 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 
----
-
-<h1>📊 GitHub Stats</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalbin09&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
