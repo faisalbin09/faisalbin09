@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">A passionate developer exploring the world of web technologies.</h3>
+<h2 align="center">A passionate developer exploring the world of web technologies.</h2>
 
-<p align="center">
+<h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=faisalbin09&label=Profile%20views&color=0e75b6&style=flat" alt="faisalbin09" />
-</p>
+</h3>
 
 - 🔭 I’m currently working on [Airbnb-Clone](https://wanderlust-project-x7o1.onrender.com/listings)  
 - 🌱 I’m currently learning **DSA (Java), Next.js, Prisma, Cloud Deployment**  
